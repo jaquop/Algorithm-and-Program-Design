@@ -1,0 +1,64 @@
+Steps:
+
+1. Define functions in Patient class -- Started -- 9:31 PM 4/13/22
+
+    a. Define Patient constructor
+        1. Done -- 9:46 PM 4/13/22
+        2. After watching the lecture I went back and fixed the patient constructor,
+           there was no error in the constructor but I am afraid it was wrong.
+
+    b. Define getName
+        1. Started -- 9:46 PM 4/13/22
+        2. Running into a lot of problems with reference &getName()
+        3. Moved on for time being -- 10:15 PM 4/13/22
+        4. Came back and edited the getName definition to not 
+           be a reference anymore
+        5. Done -- 10:37 PM 4/13/22
+        6. After watching lecture I figured out &getName wasn't a thing. Frustrated that
+           I spent so much time on it. Got it all corrected though.
+
+    c. Define printInfo
+        1. Started -- 10:16 PM 4/13/22
+        2. Added SetName, SetAge, GetName and GetAge methods
+        3. Done 10:37 PM 4/13/22
+        4. Had to watch video to restart the entire patient cpp file
+        5. ALL DONE WITH PATIENT HPP AND CPP FILES
+    
+2. Define functions in Appointments class -- Started -- 10:43 PM 4/13/22
+
+    a. Define findPatient method
+        1. Not sure what the findPatient method is asking
+        2. Skipping for now -- 10:47 PM 4/13/22
+
+    b. Define printAllPatients method
+        1. Started -- 10:48 PM 4/13/22
+        2. Worked on this for a little bit, think I just created
+           more problems than I solved. Going to have to go back
+           to it in the morning. -- 11:02 PM 4/13/22
+        3. Started Again -- 12:31 PM 4/14/22
+        4. Commented out my progress so far. Watching lectures to understand
+        5. Finished after watching lectures 
+        6. Done -- 1:15 4/14/22
+    c. Define makeAppointment method
+        1. Started -- 1:20 4/14/22
+        2. Done -- 1:26 4/14/22
+
+    d. Define printAllAppointments method
+        1. Started -- 1:26 4/14/22
+        2. 
+
+    e. Define isAvailable method
+
+    f. Define removeAppoitment method
+
+3. Define functions in TextAppMenu class
+
+    a. Define readTimeSlot method
+
+    b. Define readName method
+
+    c. Define run Method
+
+4. Finish makefile
+
+    a. Fill out "TODO" comments 
